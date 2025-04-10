@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#1A1A1D; padding: 20px; border-radius: 10px;">
 
   <h1 align="center" style="color:#D3D3D3;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9A9A9A&width=435&lines=Sayf+Mejri;Computer+Science+Engineering+Student;Business+Intelligence+Graduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9A9A9A&width=435&lines=Saif+Mejri;Computer+Science+Engineering+Student;Business+Intelligence+Graduate" alt="Typing SVG" />
   </h1>
 
 </div>
