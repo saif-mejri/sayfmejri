@@ -11,8 +11,6 @@
   ## About Me
   💡 I'm passionate about computer science, with a particular focus on the data domain. My interests span business intelligence, data science, and data engineering. I enjoy solving complex data challenges and building efficient solutions to derive meaningful insights.
 
-  🖥️ My Personal Website : [me](your-website-link) 
-
   ## Technologies I learned
 
   ![SSIS](https://img.shields.io/badge/SSIS-%23297E4C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
